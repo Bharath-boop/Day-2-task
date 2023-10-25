@@ -1,0 +1,14 @@
+write a blog on the Difference between document and window objects:-
+    DOCUMENT:-
+        * its represents any HTML document,
+        * it is a object of window property,
+        * load in window,
+        * SYNTAX:-
+            document.propertyName;
+    
+    WINDOW:-
+        * its represents a browser window,
+        * it is a object of browser,
+        * load in browser,
+        * SYNTAX:-
+            window.propertyName;
